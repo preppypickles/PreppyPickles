@@ -1,6 +1,5 @@
-## Hi 
-# ✨I am a very preppy pickle lover✨
-🎀
+# Hi 
+## ✨🎀 I am a very preppy pickle lover 🎀✨�
 
 <!--
 **preppypickles/PreppyPickles** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
